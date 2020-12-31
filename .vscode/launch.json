@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SfgbeerworksApplication<sfgbeerworks>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mahadevan.sfgbeerworks.SfgbeerworksApplication",
+            "projectName": "sfgbeerworks",
+            "args": ""
+        }
+    ]
+}
